@@ -1,3 +1,5 @@
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/e7ffedac-c25c-438f-b858-3ab996e0e51b" />
+
 # 1. Understanding AWS Privilege Escalation (High-Level)
 
 Privilege escalation in AWS typically happens when excessive or misconfigured IAM permissions allow a principal to gain higher privileges than intended. Common **risk patterns** include:
